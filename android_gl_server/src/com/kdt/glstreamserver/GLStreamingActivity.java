@@ -1,4 +1,4 @@
-package com.kdt.glstreamserver;
+package com.krd.glstreamserver;
 
 import android.app.Activity;
 import android.widget.TextView;
