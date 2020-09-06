@@ -1,4 +1,4 @@
-# gl-streaming
+# GL-Streaming
 
 
 ![GLStreaming](https://github.com/khanhduytran0/gl-streaming/raw/master/www/GLStreaming.png)
